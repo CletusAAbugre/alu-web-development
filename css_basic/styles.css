@@ -49,3 +49,7 @@ header {
 footer {
     width: 100%;
 }
+/* Logo styling */
+.logo {
+  font-size: 2.5em;
+  color: #fff;
